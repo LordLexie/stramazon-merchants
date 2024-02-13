@@ -2,11 +2,14 @@ import './App.css'
 
 function App() {
 
-  return (
-      <div className="container">
-        <h1>Hello There</h1>
+  
 
-      </div>
+  return (
+
+    <div className="container body">
+      
+    </div>
+     
   )
 }
 
